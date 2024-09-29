@@ -17,5 +17,6 @@ and the string resource of the art work's credit info.
 
 **Screenshot of the app:**
 
-![!App's screen](screenshot.png)
+<img src="screenshot.png" alt="drawing" width="500"/>
+
 
