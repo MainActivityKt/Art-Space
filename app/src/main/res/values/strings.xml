@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Art Space</string>
+
+    <string name="texture_and_patterns_description">Textures &amp; Patterns</string>
+    <string name="texture_and_patterns_credit">Photo by Geordanna Cordero on Unsplash</string>
+
+    <string name="nature_description">Nature</string>Nature>
+    <string name="nature_credit">Photo by Дар\'я Борисенко on Unsplash</string>Nature>
+
+    <string name="flowe_image_description">Flower Image</string>
+    <string name="flowe_image_credit">Photo by Richard Loader on Unsplash</string>
+
+    <string name="versailles_france_description">Versailles, France</string>
+    <string name="versailles_france_credit">Photo by Pierre Antona on Unsplash</string>
+
+    <string name="stars_description">Stars in the patagonian lake - Bariloche, Argentina</string>
+    <string name="stars_credit">Photo by guille pozzi on Unsplash</string>
+
 </resources>
