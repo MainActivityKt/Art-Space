@@ -91,8 +91,8 @@ fun ArtSpaceApp(modifier: Modifier = Modifier) {
         var currentIndex by rememberSaveable { mutableIntStateOf(0) }
         val currentArtWork = listOfArtworks[currentIndex]
 
+        Spacer(Modifier.size(15.dp))
         ArtworkWall(drawableId = currentArtWork.drawableId, currentArtWork.descriptionId)
-
         Column(
             verticalArrangement = Arrangement.Bottom,
             horizontalAlignment = Alignment.CenterHorizontally,
